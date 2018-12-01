@@ -1,4 +1,4 @@
-# Individual Insolvencies against Local Election 2018
+# Individual Insolvencies vs Local Election 2018
 
 ## Aims
 * Try to link insolvencies with the 2018 Local General election results.
