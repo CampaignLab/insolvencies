@@ -11,9 +11,13 @@
 
 ## Results
 Sanity check of the data:
+
+
 ![alt text](images/national_insolvencies_rate.png)
 
-Do some correlations for each party with the insolvency rate.
+Do some correlations for each party with the insolvency rate:
+
+
 
 ![alt text](images/all_parties_insolvencies.png)
 
