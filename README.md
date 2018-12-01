@@ -11,11 +11,11 @@
 
 ## Results
 Sanity check of the data:
-![alt text](national_insolvencies_rate.png)
+![alt text](images/national_insolvencies_rate.png)
 
 Do some correlations for each party with the insolvency rate.
 
-![alt text](all_parties_insolvencies.png)
+![alt text](images/all_parties_insolvencies.png)
 
 ```
                       r       r^2
@@ -30,4 +30,4 @@ The collapse of UKIP is very evident in the data. This is an issue as places wit
 
 As a first step in removing the UKIP influence, we tried to look at swing:
 
-![alt text](UKIP2Con.png)
+![alt text](images/UKIP2Con.png)
