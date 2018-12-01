@@ -1,7 +1,7 @@
-# Individual Insolvencies against Local Election 2018 in London
+# Individual Insolvencies against Local Election 2018
 
 ## Aims
-* Try to link insolvencies with the 2018 Local General election results in London.
+* Try to link insolvencies with the 2018 Local General election results.
 * Get experience with this kind of correlation task
 
 ## Data Used
