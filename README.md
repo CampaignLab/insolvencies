@@ -18,12 +18,12 @@ Do some correlations for each party with the insolvency rate.
 ![alt text](images/all_parties_insolvencies.png)
 
 ```
-                      r       r^2
-UKIP PCT +/-     -0.486734  0.236910
-LDem PCT +/-     -0.299321  0.089593
-Lab PCT +/-       0.137356  0.018867
-Con PCT +/-       0.268314  0.071992
-Grn PCT +/-       0.270829  0.073348
+              r         r^2
+UKIP PCT +/- -0.585808  0.343171
+LDem PCT +/- -0.083332  0.006944
+Lab PCT +/-   0.131011  0.017164
+Grn PCT +/-   0.351160  0.123313
+Con PCT +/-   0.585564  0.342885
 ```
 
 The collapse of UKIP is very evident in the data. This is an issue as places with high insolvency rates, often used to have a high UKIP vote share. Hence UKIP PCT +/- shows a big correlation with insolvency.
